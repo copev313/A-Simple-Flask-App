@@ -18,5 +18,3 @@ def welcome():
 # Start our server:
 if __name__ == '__main__':
     app.run()
-
-# `flask run --host=0.0.0.0` will make site publicly available to your network.
